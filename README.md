@@ -44,7 +44,7 @@
 
 ## Features
 
-This application/site was created as a submission to a [Clarusway](https://clarusway.com) Project/Challenges/etc. 
+This application/site was created as a submission to a [Clarusway](https://clarusway.com) Project 
 
 ## How To Use
 
