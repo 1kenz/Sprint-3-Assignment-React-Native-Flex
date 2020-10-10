@@ -19,8 +19,7 @@ const App = () => {
           <Text style={styles.black_box_text}>Black Box</Text>
         </View>
         <View style={[styles.brown_box, {flex: 1}]}>
-          <Text style={[styles.brown_box_text, {}]}>Brown</Text>
-          <Text style={[styles.brown_box_text, {}]}>Box</Text>
+          <Text style={[styles.brown_box_text, {}]}>Brown      Box</Text>
         </View>
       </View>
     </SafeAreaView>
@@ -82,19 +81,16 @@ const styles = StyleSheet.create({
     textAlign: 'center',
   },
   brown_box: {
-    // flex:1,
     backgroundColor: 'brown',
     borderRadius: 80,
     margin: 20,
     flexDirection: 'row',
   },
   brown_box_text: {
-    // flex:1,
     color: 'white',
+    fontWeight: 'bold',
     textAlign: 'left',
     textAlignVertical: 'center',
-    // alignSelf: 'center',
-    //   justifyContent: 'center',
     alignItems: 'flex-start',
     transform: [{rotate: '270deg'}],
   },
