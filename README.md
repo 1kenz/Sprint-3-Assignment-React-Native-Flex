@@ -1,9 +1,3 @@
-## Sprint 3
-
-
-
-  https://raw.githubusercontent.com/xkendx/Sprint-3-React-Native-Flex/main/src/img/img.png
-  
   <!-- Please update value in the {}  -->
 
 <h1 align="center">Sprint-3 Assignment</h1>
@@ -12,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://xkendx.github.io/team-member-flex">
+    <a href="https://xkendx.github.io/Sprint-3-React-Native-Flex/">
       Project
     </a>
    
