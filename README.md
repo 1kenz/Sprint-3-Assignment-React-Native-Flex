@@ -1,10 +1,10 @@
   <!-- Please update value in the {}  -->
 
-<h1>Sprint-3 Assignment</h1>
+<h1 align="center">Sprint-3 Assignment</h1>
 
   [Sprint-3 Assignment](https://github.com/clarusway/clarusway-full-stack-6-20/blob/master/sprint-evaluation/sprint/sprint3/assignment.pdf)
 
-<div align="center">
+<div>
   <h3>
     <a href="https://xkendx.github.io/Sprint-3-React-Native-Flex/">
       Project
