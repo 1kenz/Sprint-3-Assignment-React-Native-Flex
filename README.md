@@ -1,3 +1,7 @@
-# Sprint-3-React-Native-Flex
-## https://xkendx.github.io/Sprint-3-React-Native-Flex/
+## Sprint 3
+
+
+  [Sprint-3 Assignment](https://github.com/clarusway/clarusway-full-stack-6-20/blob/master/sprint-evaluation/sprint/sprint3/assignment.pdf)
+
+[Screenshot]("./src/img/img.png")
 
