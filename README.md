@@ -1,6 +1,6 @@
   <!-- Please update value in the {}  -->
 
-<h1 align="center">Sprint-3 Assignment</h1>
+<h1>Sprint-3 Assignment</h1>
 
   [Sprint-3 Assignment](https://github.com/clarusway/clarusway-full-stack-6-20/blob/master/sprint-evaluation/sprint/sprint3/assignment.pdf)
 
