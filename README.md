@@ -73,11 +73,25 @@ $ npm start
 ## Contact
 
 <!-- - Website [@xkendx](http://www.kenandeniz.com.tr) -->
-- GitHub [@xkendx](https://github.com/xkendx)
+<a href="https://stackshare.io/xkendx/my-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/xkendx/my-stack">
+</a>
 
-- Linkedin [@kenandeniz](https://www.linkedin.com/in/kenan-deniz/)
-<!-- - Twitter [@your-twitter](https://{twitter.com/your-username}) -->
-
+<a href="https://stackoverflow.com/users/14359078/xkendx" target="_blank">
+    <img src="https://img.shields.io/badge/%20-stackoverflow-2c3e50" alt="https://stackoverflow.com/users/14359078/xkendx">
+</a>
+<a href="https://www.linkedin.com/in/kenan-deniz" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/kenan-deniz">
+</a>
+<a href="mailto:kendentry@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:kendentry@gmail.com">
+</a>
+<a href="https://medium.com/@xkendx" target="_blank">
+    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@xkendx">
+</a>
+<a href="http://www.kenandeniz.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/%20-mysite-%231DA1F2" alt="http://www.kenandeniz.com.tr">
+</a>
 
 
 
